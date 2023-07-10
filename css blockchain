@@ -1,0 +1,15 @@
+ margin-top: 20px;
+    font-weight: 600;
+    width: 300px;
+    height: 300px;
+    background-color: #006400; /* color применяется к обычному тексту, background-color применяется к блокам */
+    padding: 20px 50px 40px 60px; /* сверху 20, справа 50, снизу 40, слева 60 пикселей отступы */
+    border: 3px dotted greenyellow;
+}
+
+.box3 {
+    font-weight: 600;
+    width: 300px;
+    height: 300px;
+    background-color: #006400; /* color применяется к обычному тексту, background-color применяется к блокам */
+    padding: 20px 50px 40px 60px; /* сверх
